@@ -1,0 +1,17 @@
+{
+  "name": "sinon-examples",
+  "version": "1.0.0",
+  "description": "examples demonstrates the usage of SINON",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "sinon": "^4.2.0"
+  }
+}
